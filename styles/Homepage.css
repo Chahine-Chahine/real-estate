@@ -1,0 +1,64 @@
+.header {
+    background-color: #2e95af;
+    margin: 0;
+    text-align: center; 
+    padding: 10px; 
+    color: #fff; 
+}
+
+.container1{
+    border: 3px;
+    padding: 20px;
+}
+
+.container2{
+    height: 230px;
+    margin-top: 100px;
+}
+
+
+.paragraph {
+    width: 50%;
+    padding: 20px;
+    border: 2px solid rgb(0, 204, 255);
+    font-size: 22px;
+    padding-top: 210px;
+    padding-bottom: 230px;
+    padding-right: 115px;
+    padding-left: 66px;
+    margin-top: 1px;
+}
+.paragraph1{
+    float: left;
+}
+.paragraph2{
+    float: right;
+}
+
+.img{
+    height: 600px;
+    width: 600px;
+    margin: 0;
+}
+.img1 {
+    float: right; 
+}
+
+.img2 {
+    float: left; 
+}
+
+.title{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 30;
+    margin: 1100px 200px 0px 200px;
+    height: 50px;
+
+}
+
+.img3{
+    float: right;
+}
